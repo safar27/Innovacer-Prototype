@@ -1,0 +1,224 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="11C3EC1B-ABB3-454D-AC60-BFEC2B564F22" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="22">
+    <control controlID="DB05A974-FEAF-44CE-9CEF-03D76B6C5D82" controlTypeID="TimePicker" x="0" y="209" w="375" h="224" zOrder="0"/>
+    <control controlID="9E89B3D9-F733-4082-AD0E-A2AE6E0C20F9" controlTypeID="Label" x="0" y="433" w="376" h="22" zOrder="1">
+      <color>16777215</color>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="84523BE5-8B29-464D-BF18-54635F77D6E9" controlTypeID="Label" x="0" y="455" w="376" h="22" zOrder="2">
+      <color>16777215</color>
+      <opacity>0.899999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B95B442B-38D6-40D4-AC23-EF4A3AE0DD4F" controlTypeID="Label" x="0" y="477" w="376" h="22" zOrder="3">
+      <color>16777215</color>
+      <opacity>0.800000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8565E302-0764-4B05-9D49-264983207E82" controlTypeID="Label" x="0" y="94" w="376" h="22" zOrder="4">
+      <color>16777215</color>
+      <opacity>0.600000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="ED1FB450-1DB0-460D-9225-3D40667427BA" controlTypeID="Label" x="0" y="72" w="376" h="22" zOrder="5">
+      <color>16777215</color>
+      <opacity>0.5</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B5A59C01-61E3-4876-82DF-054EC6B09FBE" controlTypeID="Label" x="0" y="50" w="376" h="22" zOrder="6">
+      <color>16777215</color>
+      <opacity>0.400000005960464</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="77E73A5F-5440-433A-A254-35D30E89362F" controlTypeID="Label" x="0" y="116" w="376" h="22" zOrder="7">
+      <color>16777215</color>
+      <opacity>0.699999988079071</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="9D0EBCBF-7C45-4DC3-B418-4B60257809C7" controlTypeID="Label" x="0" y="138" w="376" h="22" zOrder="8">
+      <color>16777215</color>
+      <opacity>0.800000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EA9AAA92-3759-4140-B8B1-A08EE7D60D98" controlTypeID="Label" x="0" y="160" w="376" h="22" zOrder="9">
+      <color>16777215</color>
+      <opacity>0.899999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1811F758-6A7F-4191-BD61-01ACE5111CC1" controlTypeID="Label" x="0" y="182" w="376" h="22" zOrder="10">
+      <color>16777215</color>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="019DC5B5-E455-4F16-AAA1-3D124E914539" controlTypeID="Label" x="0" y="499" w="376" h="22" zOrder="11">
+      <color>16777215</color>
+      <opacity>0.699999988079071</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="254455D3-62A5-4898-B0A0-C808583C61E5" controlTypeID="Label" x="0" y="521" w="376" h="22" zOrder="12">
+      <color>16777215</color>
+      <opacity>0.600000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DDF06D28-88BE-48DB-B8D9-26F26D13E371" controlTypeID="Label" x="0" y="543" w="376" h="22" zOrder="13">
+      <color>16777215</color>
+      <opacity>0.5</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F4A6E9F4-C10E-47AD-B230-0AD40F1C833C" controlTypeID="Label" x="0" y="565" w="376" h="22" zOrder="14">
+      <color>16777215</color>
+      <opacity>0.400000005960464</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6E69DAE5-9D1A-4278-9E59-AC53464CCEBB" controlTypeID="Label" x="-1" y="587" w="376" h="22" zOrder="15">
+      <color>16777215</color>
+      <opacity>0.300000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="3CF668D4-C19D-4184-AF19-E6129B8F4B30" controlTypeID="NavigationBar" x="0" y="617" w="375" h="50" zOrder="16"/>
+    <control controlID="4F6C3478-B9B6-4EAF-8572-0D280A00F77E" controlTypeID="Label" x="0" y="34" w="376" h="22" zOrder="17">
+      <color>16777215</color>
+      <opacity>0.300000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="311AAE56-0DC1-477F-B645-F8BF9EF4FD7F" controlTypeID="Icon" x="327" y="226" w="24" h="24" zOrder="18">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="786F6D19-D3F7-4910-A06E-E2F4D4C2FDC2" linkType="ltPageLink" isApplyIncludePage="False" title="List+of+set+times">
+          <area shape="0" alt="" ID="{8A43B581-AC3A-4002-9B64-F07609B7AE71}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62356</iconCode>
+      </icon>
+      <URL>F8C2434C2C958119B1E6150C97C501FA.svg</URL>
+    </control>
+    <control controlID="BEF015BF-73EB-4500-BF56-3BF5BD02BD04" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="19"/>
+    <control controlID="31CFB239-4B18-459D-92AA-45A150BAD963" controlTypeID="TextArea" x="0" y="15" w="375" h="25" zOrder="20">
+      <color>4294967295</color>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Pick+a+time</text>
+      <textSize>16</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F8116117-FF83-4626-918E-CD9AA7EDD77B" controlTypeID="Icon" x="0" y="16" w="24" h="24" zOrder="21">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A773CD59-5ED2-4F0E-BDF6-F28D17BE3803" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{8B3F9FAE-922D-4EAE-A226-ECCA6DDC1DB7}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>16</fontSize>
+    <fontFamily>Calibri</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

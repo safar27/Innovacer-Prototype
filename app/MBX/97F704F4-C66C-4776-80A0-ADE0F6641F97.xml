@@ -1,0 +1,356 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="97F704F4-C66C-4776-80A0-ADE0F6641F97" platform="MtMobile" defaultW="375" defaultH="667" measureW="375" measureH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" clipArea="(0,0,0,0)">
+  <controls controlCount="36">
+    <control controlID="CC678D81-07F1-4BC3-BECC-0394687B13BB" controlTypeID="TextArea" x="-1" y="268" w="375" h="117" zOrder="0">
+      <borderColor>4294967295</borderColor>
+      <borderVisible>True</borderVisible>
+      <font family="Britannic+Bold" displayName="Britannic+Bold" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False" useDefaultFontFamily="False"/>
+      <text>%0D%0AThis+mindful+technique+involves+inhaling+for+the+same+amount+of+time+as+exhaling.+Breathe+in+for+4+seconds+and+breathe+out+for+4+seconds.</text>
+      <textColor>4294967295</textColor>
+      <textSize>18</textSize>
+      <textAlign>HaCenter</textAlign>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EADDD76E-F8AA-4EB1-AC7E-F9D76DA82A6A" controlTypeID="NavigationBar" x="0" y="617" w="375" h="50" zOrder="1"/>
+    <control controlID="C9229C7B-6731-4AE2-8F1F-2D53E543E134" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="2"/>
+    <control controlID="3F3A3350-9D91-4F6E-B0DA-01984A6F8783" controlTypeID="TextArea" x="0" y="20" w="375" h="24" zOrder="3">
+      <color>4294967295</color>
+      <borderColor>4294967295</borderColor>
+      <font family="Britannic+Bold" displayName="Britannic+Bold_%26_Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False" useDefaultFontFamily="False"/>
+      <text>Equal+Breathing</text>
+      <textSize>16</textSize>
+      <textAlign>HaCenter</textAlign>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0BD65F52-B55A-4EBA-A08A-C98E4A27B4D2" controlTypeID="Icon" x="0" y="20" w="24" h="24" zOrder="4">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="C6220D4B-303B-4299-BE2C-8B68DB0EF26E" linkType="ltPageLink" isApplyIncludePage="False" title="Breathing+Techniques">
+          <area shape="0" alt="" ID="{E53FF5F1-2143-460D-8D3E-C78654355F6A}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+    <control controlID="AEE0B79B-2BED-48DB-BB99-3C6553C9EECF" controlTypeID="Label" x="-1" y="600" w="376" h="22" zOrder="5">
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E203CD01-9A8C-40B2-B1B9-54C03AE7F476" controlTypeID="Label" x="-1" y="585" w="376" h="22" zOrder="6">
+      <opacity>0.949999988079071</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="1F7E17CC-FB88-46A3-A619-0ECC7BA06509" controlTypeID="Label" x="-1" y="568" w="376" h="22" zOrder="7">
+      <opacity>0.899999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="48B2CE8D-6FA7-4BC7-AC25-B5CEC221C15D" controlTypeID="Label" x="-1" y="553" w="376" h="22" zOrder="8">
+      <opacity>0.850000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CC247802-20DB-4B7C-8265-6FC15E0314D2" controlTypeID="Label" x="-1" y="437" w="376" h="22" zOrder="9">
+      <opacity>0.550000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CE47F6F8-0EBA-477A-A7FC-A88E6A784A8B" controlTypeID="Label" x="-1" y="489" w="376" h="22" zOrder="10">
+      <opacity>0.550000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="489C9EF2-8812-4DF1-997D-F0BF39C1F874" controlTypeID="Label" x="-1" y="504" w="376" h="22" zOrder="11">
+      <opacity>0.649999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="81A2546B-CB6E-4DCE-B838-A04C2E67BC15" controlTypeID="Label" x="-1" y="516" w="376" h="22" zOrder="12">
+      <opacity>0.699999988079071</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="508B32D6-8CAD-4025-912A-2894A5BE371A" controlTypeID="Label" x="-1" y="531" w="376" h="22" zOrder="13">
+      <opacity>0.75</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E0CFB000-8B59-47C9-99A0-2E164FF9336C" controlTypeID="Label" x="-1" y="463" w="376" h="22" zOrder="14">
+      <opacity>0.649999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="7D4E3C60-F7E0-47BB-8103-199274D311BA" controlTypeID="Label" x="-1" y="450" w="376" h="22" zOrder="15">
+      <opacity>0.600000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F3A31A63-67A9-487F-9580-A2C34A00DD7C" controlTypeID="Label" x="-1" y="477" w="376" h="22" zOrder="16">
+      <opacity>0.600000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="76B2A958-3B35-479B-8E3B-B4DC495BEE5B" controlTypeID="Label" x="-1" y="542" w="376" h="22" zOrder="17">
+      <opacity>0.800000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A64FB3A0-9715-43BC-AAD3-51338B543BF7" controlTypeID="Label" x="-1" y="422" w="376" h="22" zOrder="18">
+      <opacity>0.400000005960464</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="589BFC23-6F64-4275-A7CA-8446723370AF" controlTypeID="Label" x="-1" y="410" w="376" h="22" zOrder="19">
+      <opacity>0.400000005960464</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C83E3C05-4EE9-48D0-B364-DD6A1153D024" controlTypeID="Label" x="-1" y="396" w="376" h="22" zOrder="20">
+      <opacity>0.300000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="78F55B11-AF5B-4A38-BFB3-3D29EF704307" controlTypeID="Label" x="-1" y="385" w="376" h="22" zOrder="21">
+      <opacity>0.200000002980232</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4D24ADE7-BE85-471C-8E2F-8C20A53C6887" controlTypeID="Label" x="-1" y="246" w="376" h="22" zOrder="22">
+      <opacity>0.200000002980232</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="4142BDDE-A692-41F7-9CFF-C92BBAAC3E5B" controlTypeID="Label" x="-1" y="54" w="376" h="22" zOrder="23">
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="B49075C7-C09E-4D1C-9529-28E83EE4A432" controlTypeID="Label" x="-1" y="123" w="376" h="22" zOrder="24">
+      <opacity>0.75</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="EC4CB7C8-5753-4A35-8EC9-C05A8887DA6B" controlTypeID="Label" x="-1" y="138" w="376" h="22" zOrder="25">
+      <opacity>0.699999988079071</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="27942E28-BF5C-4DA1-B32E-6E077303FF65" controlTypeID="Label" x="-1" y="150" w="376" h="22" zOrder="26">
+      <opacity>0.649999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="99E18A49-0433-40BB-904B-066B6F6BAAAA" controlTypeID="Label" x="-2" y="166" w="376" h="22" zOrder="27">
+      <opacity>0.600000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="8A2BB47A-CE57-4845-8F69-90FE61B0C46A" controlTypeID="Label" x="-1" y="182" w="376" h="22" zOrder="28">
+      <opacity>0.5</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="13C2602C-ACF6-4537-8DD1-AF0B5739A408" controlTypeID="Label" x="-1" y="198" w="376" h="22" zOrder="29">
+      <opacity>0.400000005960464</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="68B5738B-383F-428A-A2AC-DC3528098CB7" controlTypeID="Label" x="-1" y="214" w="376" h="22" zOrder="30">
+      <opacity>0.300000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="46390931-680B-4689-8854-4ED1E3360B6C" controlTypeID="Label" x="-1" y="230" w="376" h="22" zOrder="31">
+      <opacity>0.25</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="C464731B-60C8-4981-BCEB-808951D0CE49" controlTypeID="Label" x="-1" y="84" w="376" h="22" zOrder="32">
+      <opacity>0.899999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="281E550B-ABC6-4E75-BD98-979C8B28834A" controlTypeID="Label" x="-1" y="97" w="376" h="22" zOrder="33">
+      <opacity>0.850000023841858</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="D8080495-3E68-4ED7-963E-4E32D0843985" controlTypeID="Label" x="-1" y="111" w="376" h="22" zOrder="34">
+      <opacity>0.800000011920929</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="664CF913-5F21-4657-BCC1-90051F08EA0F" controlTypeID="Label" x="-1" y="70" w="376" h="22" zOrder="35">
+      <opacity>0.899999976158142</opacity>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E0%BC%80%E0%BC%81%E0%BC%82%E0%BC%84%E0%BC%85%E0%BC%86%E0%BC%87%E0%BC%88%E0%BC%89%E0%BC%8A%E0%BC%92%E0%BC%91%E0%BC%94%E0%BC%96%E0%BC%97%E0%BC%97%E0%BD%A8%E0%BD%82+%CA%B0%E0%BD%93++%E0%BD%96+%CA%B0%E0%BD%91+%E0%BD%98+%E0%BD%A0+%E0%BD%A2+%E0%BD%84+%E0%BD%A6+%E0%BD%A3%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93%E0%BD%82%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BE%9F%E0%BD%82%E0%BD%A6%E0%BC%8B%E0%BD%82%E0%BD%A1%E0%BD%BC%E0%BD%93</text>
+      <textColor>4294967295</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>16</fontSize>
+    <fontFamily>Calibri</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

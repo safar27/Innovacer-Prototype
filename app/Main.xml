@@ -1,0 +1,119 @@
+﻿<project version="2.9" name="Breathe easy" ID="70659BE7-46A1-40FC-BD0D-E9ADBC5B13C5">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtMobile" orientation="MoPortrait" mobileScreenScale="1.77777779102325" mobileType="mmtIOS" pageSize="(375,667)" backgroundColor="4278190080" fontSize="16" fontFamily="Calibri" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="Home" ID="A773CD59-5ED2-4F0E-BDF6-F28D17BE3803" expanded="True" code="yUkUst8c25" thumbCode="yUkUst8c25" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="DC3C16427A3057483422C925AA31084C.svg"/>
+        <image key="D4835ECCDF65FE807E6B979D663896C5.jpeg"/>
+        <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="6858011DBC067CD4BD1B54F465C43420.svg"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+        <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+      </images>
+    </page>
+    <page name="Breathing Techniques" ID="C6220D4B-303B-4299-BE2C-8B68DB0EF26E" expanded="True" code="PkMUImjhkN" thumbCode="PkMUImjhkN" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="DC3C16427A3057483422C925AA31084C.svg"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Tutorials" ID="275BBBA4-3B61-412A-9F15-8797ABD45F6A" expanded="False" code="1uyjhvgmNr" thumbCode="1uyjhvgmNr" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="6EE140726548992D82F763CCD21EF6A1.svg"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Time Picker" ID="11C3EC1B-ABB3-454D-AC60-BFEC2B564F22" expanded="False" code="XQNzIzALiK" thumbCode="XQNzIzALiK" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="List of set times" ID="786F6D19-D3F7-4910-A06E-E2F4D4C2FDC2" expanded="False" code="rdXxrwKR5K" thumbCode="rdXxrwKR5K" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Box Breathing" ID="4C06E435-2311-4842-9704-FF91B1BFF57F" expanded="False" code="7O27RB3ntO" thumbCode="7O27RB3ntO" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="4-7-8 Breathing" ID="481E0BCF-F422-4895-85F7-7A2DD707886A" expanded="False" code="DzzMWAXMWu" thumbCode="DzzMWAXMWu" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Deep Breathing" ID="62B2AC70-17B3-4E75-8E61-B107180266B9" expanded="False" code="1tpZVcDMZZ" thumbCode="1tpZVcDMZZ" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Equal Breathing" ID="97F704F4-C66C-4776-80A0-ADE0F6641F97" expanded="True" code="kOOzHBxLjb" thumbCode="kOOzHBxLjb" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Breath Counting" ID="6279425F-07EE-4300-902F-E88360BB59A0" expanded="True" code="P3mamQsO92" thumbCode="P3mamQsO92" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+    <page name="Rhythmic Breathing" ID="CD1A3D81-0995-49CC-85FC-9E82DB033F4C" expanded="True" code="WIxBF8hKV4" thumbCode="WIxBF8hKV4" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+      </images>
+    </page>
+  </pages>
+  <trash>
+    <page name="Mileage Tracker" ID="2F1B5149-405D-4A44-8CF1-E44831F78279" expanded="True" code="BhrqztYoNK" thumbCode="th4P5NaZgC" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="4218FAEEAA75D36CA59ABD51D68501DA.svg"/>
+        <image key="C4D32938CCC075DAD61C1C5CB7357546.svg"/>
+        <image key="2DE76811BA0C7945414DAC5602145935.svg"/>
+        <image key="6DC843F1C0755B2A55AAF5BA21B923A9.svg"/>
+        <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+        <image key="CDEBBF7EBDD37DA54AC604792FCAECCA.svg"/>
+        <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+      </images>
+    </page>
+    <page name="Tax Tables" ID="67DCADD4-8AC9-4512-9D0F-CEAC8BFBBBBB" expanded="True" code="eR6XARW5LA" thumbCode="tJsKrsGu4V" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="97D42F84AB1ACA7B3DB71E8D7DA90BF0.svg"/>
+        <image key="6EE140726548992D82F763CCD21EF6A1.svg"/>
+        <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+      </images>
+    </page>
+    <page name="Budget Planner" ID="21723657-AB77-437A-8276-AEB5471F7310" expanded="True" code="sFsHcYsxNW" thumbCode="Pz2nOF94Vm" isLastOpen="True" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+      </images>
+    </page>
+  </trash>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="4218FAEEAA75D36CA59ABD51D68501DA.svg"/>
+    <image key="DC3C16427A3057483422C925AA31084C.svg"/>
+    <image key="6EE140726548992D82F763CCD21EF6A1.svg"/>
+    <image key="C4D32938CCC075DAD61C1C5CB7357546.svg"/>
+    <image key="CDEBBF7EBDD37DA54AC604792FCAECCA.svg"/>
+    <image key="F8C2434C2C958119B1E6150C97C501FA.svg"/>
+    <image key="6858011DBC067CD4BD1B54F465C43420.svg"/>
+    <image key="D95E480717200F895E41DB6E5B869596.svg"/>
+    <image key="97D42F84AB1ACA7B3DB71E8D7DA90BF0.svg"/>
+    <image key="2DE76811BA0C7945414DAC5602145935.svg"/>
+    <image key="D4835ECCDF65FE807E6B979D663896C5.jpeg"/>
+    <image key="6DC843F1C0755B2A55AAF5BA21B923A9.svg"/>
+    <image key="9DDACFA1CF56DBAEDCDB44BD9EE77A8A.svg"/>
+    <image key="D6859759E093AABA6D618DD6AA733504.svg"/>
+    <image key="89AC61E0CC2D4ADE5E3DCBB2E1B1DF79.svg"/>
+    <image key="A74ACDBBC3EE487C9CDF84F8F9700C7C.svg"/>
+  </images>
+</project>

@@ -1,0 +1,67 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="275BBBA4-3B61-412A-9F15-8797ABD45F6A" platform="MtMobile" defaultW="375" defaultH="667" screenOrientation="MoPortrait" mobileScreenScale="1.77777779102325" measureW="375" measureH="708" clipArea="(0,103,375,708)">
+  <controls controlCount="6">
+    <control controlID="6BA0AFE1-EDB6-41FE-8AFF-002A2B4D5AB6" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0">
+      <color>0</color>
+      <ForegroundColor>4278190080</ForegroundColor>
+      <IsAutoTextColor>False</IsAutoTextColor>
+    </control>
+    <control controlID="D5F6BA80-0137-4573-A07E-36042E3F0F36" controlTypeID="Shape" x="0" y="20" w="375" h="45" zOrder="1">
+      <borderColor>4291611852</borderColor>
+      <font family="Calibri" displayName="Calibri+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>Tutorials</text>
+      <textColor>4284900966</textColor>
+      <textSize>16</textSize>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+      <borderMode>[bmBottom]</borderMode>
+    </control>
+    <control controlID="ED6D202E-7A07-4F24-B6EC-F28203B0A5CB" controlTypeID="Shape" x="9" y="70" w="354" h="32" zOrder="2">
+      <color>4294243572</color>
+      <borderVisible>False</borderVisible>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <textSize>16</textSize>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="048F8674-D19A-43C6-9AE7-B390BA205324" controlTypeID="Icon" x="15" y="79" w="14" h="14" zOrder="3">
+      <color>4278229982</color>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62629</iconCode>
+      </icon>
+      <URL>6EE140726548992D82F763CCD21EF6A1.svg</URL>
+    </control>
+    <control controlID="E86C98D8-A1EC-42F3-996C-F9877CA141B9" controlTypeID="TextInput" x="33" y="72" w="330" h="28" zOrder="4">
+      <color>16777215</color>
+      <borderVisible>False</borderVisible>
+      <font family="Calibri" displayName="Calibri" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>Search</text>
+      <textColor>4278229982</textColor>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="A07D3D4E-9DBB-4C0E-8ED0-ECBF061D7619" controlTypeID="Icon" x="5" y="30" w="24" h="24" zOrder="5">
+      <color>4278190080</color>
+      <links eventType="AtClick" animate="AmSlideRight" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="A773CD59-5ED2-4F0E-BDF6-F28D17BE3803" linkType="ltPageLink" isApplyIncludePage="False" title="Home">
+          <area shape="0" alt="" ID="{7A696A7B-1907-4799-B7EA-F3B3CDBB3C13}" coords="(0,0,24,24)"/>
+        </link>
+      </links>
+      <icon>
+        <ID/>
+        <iconFontName>jdIonicons</iconFontName>
+        <iconCode>62154</iconCode>
+      </icon>
+      <URL>D95E480717200F895E41DB6E5B869596.svg</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4278190080</backgroundColor>
+    <fontSize>16</fontSize>
+    <fontFamily>Calibri</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
